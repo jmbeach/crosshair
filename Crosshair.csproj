@@ -81,6 +81,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\cross4.bmp" />
     <None Include="cross1.png" />
     <None Include="cross2.png" />
     <None Include="cross3.png" />
